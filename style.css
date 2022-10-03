@@ -1,0 +1,36 @@
+.panneaux{
+    height: 100vh;
+    display: flex;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.panneau{
+    flex: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.paysage1{
+    background-image: url('images/paysage1.jpg');
+    
+
+}
+.paysage2{
+    background-image: url('images/paysage2.jpg');
+    
+}
+.paysage3{
+    background-image: url('images/paysage3.jpg');
+  
+}
+.paysage4{
+    background-image: url('images/paysage4.jpg');
+
+}
+.paysage5{
+    background-image: url('images/paysage5.jpg');
+
+}
